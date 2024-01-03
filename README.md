@@ -1,5 +1,6 @@
 # HR Employee analysis
 ### Project Overview
+---
  This data analysis project aims to provide insights into the company in regards to the employees data.By analyzing various aspects of the employees' bio data,we seek to identify trends and make data-driven reccommendations and gain a deeper understanding of the company's bio-data from employees.
 
 ### Data Source
